@@ -12,8 +12,8 @@ Pour intégrer Arize avec MLflow, il faut généralement ajouter des appels à l
 SuperWize est une plateforme de gestion de modèle ML qui facilite le déploiement, le suivi et la gestion des modèles en production.
 Pour utiliser SuperWize avec MLflow, il faut intégrer les fonctionnalités de SuperWize dans le pipeline de déploiement.
 4.	Ngrok :
-•	Ngrok est un outil permettant de créer des tunnels sécurisés vers des applications locales. Il est souvent utilisé pour exposer des services locaux à Internet.
-•	Ngrok est utilisé pour exposer l'interface utilisateur ou les API web d’applications MLflow, Arize, ou SuperWize afin de les rendre accessibles depuis l'extérieur.
+Ngrok est un outil permettant de créer des tunnels sécurisés vers des applications locales. Il est souvent utilisé pour exposer des services locaux à Internet.
+Ngrok est utilisé pour exposer l'interface utilisateur ou les API web d’applications MLflow, Arize, ou SuperWize afin de les rendre accessibles depuis l'extérieur.
 
 Pour intégrer ces outils, il faut consulter la documentation spécifique de chacun d'eux et suivre les instructions fournies. 
 
